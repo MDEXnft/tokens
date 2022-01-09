@@ -1,0 +1,19 @@
+{
+  "name": "Mdex NFT",
+  "description": "Aerospace series",
+  "image": "https://storageapi.fleek.co/4e76b4d6-2eaa-4096-8bcf-95ba2cbc007e-bucket/Cruise-Maintenance-Workers.png",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Cruise Maintenance workers"
+    },
+    "attributes": {
+      "type": "string",
+      "description": "N"
+    },
+    "ipfs": {
+      "type": "string",
+      "description": "https://ipfs.fleek.co/ipfs/bafybeig4tzqrisn457k6cl2s26jsl2eikapgtkuoynvo2kbw2zdafmqiyu"
+    }
+  }
+}
